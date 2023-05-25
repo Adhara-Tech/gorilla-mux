@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gorilla/mux"
+	"github.com/Adhara-Tech/mux"
 )
 
 // Define our struct
